@@ -1,7 +1,6 @@
 .navbar{
     margin-bottom: 0;
-}
-#navbg {
-
-    background-color: #2f170fe6;
+    background-color: #f6e1c5;
+    color: black;
+    font-size: larger;
 }

@@ -1,11 +1,12 @@
 h1{
     text-align: center;
+    
 }
 .text{
     text-align: justify;
     text-justify: inter-word;
     text-align-last: center;
-    font-size: medium;
+    font-size: medium;    
     margin: 1cm 10cm;
     line-height: 3;
     
@@ -21,4 +22,9 @@ h1{
     display: block;
     margin: 0 auto; 
     margin-top: 1cm;
+}
+.cta {/*el de afuera*/
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    background-color: rgba(230, 167, 86, 0.9);
 }

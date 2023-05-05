@@ -14,3 +14,8 @@ h1{
     width: 50%;
    
 }
+.cta {/*el de afuera*/
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+    background-color: rgba(230, 167, 86, 0.9);
+}
