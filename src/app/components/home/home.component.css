@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+}
+.text{
+    text-align: justify;
+    text-justify: inter-word;
+    text-align-last: center;
+    font-size: medium;
+    margin: 1cm 10cm;
+    line-height: 3;
+    
+}
+.logo{
+    display: block;
+    margin: 0 auto; 
+    width: 20%;
+    border-radius: 100%;
+ 
+    }
+.gmap{
+    display: block;
+    margin: 0 auto; 
+    margin-top: 1cm;
+}

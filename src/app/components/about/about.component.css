@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+}
+.text{
+    text-align: justify;
+    text-justify: inter-word;
+    text-align-last: center;
+    margin: 1cm 10cm;
+    line-height: 3;
+}
+.fotoA{
+    display: block;
+    margin: 0 auto; 
+    width: 50%;
+   
+}

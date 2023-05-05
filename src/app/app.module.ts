@@ -12,7 +12,8 @@ import { Error404Component } from './components/error404/error404.component';
     AppComponent,
     NavbarComponent,
     MenuComponent,
-    Error404Component
+    Error404Component,
+   
   ],
   imports: [
     BrowserModule,
